@@ -2,8 +2,9 @@
 
 ## 1.Summary
 
-Dataset: <https://www.kaggle.com/promptcloud/all-marvel-cinematic-universe-movies-on-imdb>
+Dataset: <https://www.kaggle.com/promptcloud/all-marvel-cinematic-universe-movies-on-imdb>\
 Dataset that contains info about marvel movies. So who plays in it, how long, what rating, financials...
+Plots are mainly about actors, rating and earnings.
 
 ## 2.Results
 
